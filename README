@@ -3,10 +3,6 @@
                        2.9 Development Branch
                    ------------------------------
 
-This is an unstable development release, an intermediate state on the
-way to the next stable release 2.10. GIMP 2.9 may or may not do what
-you expect. Save your work early and often. If you want a stable
-version, please use GIMP 2.8 instead.
 
 GIMP 2.9 replaces earlier GIMP 2.x versions. It is advised that you
 uninstall them before installing GIMP 2.9. If you want to keep your
