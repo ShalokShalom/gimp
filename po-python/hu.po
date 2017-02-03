@@ -1,0 +1,488 @@
+# Hungarian translation of gimp-python.
+# Copyright (C) 2001, 2003, 2004, 2007, 2008, 2012 Free Software Foundation, Inc.
+# This file is distributed under the same license as the gimp-python package.
+#
+# Arpad Biro .
+# Andras Timar <timar@gnome.hu>, 2001, 2003.
+# Emese Kovacs <emese@gnome.hu>, 2001.
+# Laszlo Dvornik <dvornik@gnome.hu>, 2004.
+# Arpad Biro <biro arpad gmail>, 2004, 2007, 2008.
+# Gabor Kelemen <kelemeng@gnome.hu>, 2007, 2008, 2012.
+# Gabor Kelemen <kelemeng at gnome dot hu>, 2012.
+# Balázs Úr <urbalazs at gmail dot com>, 2013, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-python.gimp-2-6\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gimp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-03-05 18:38+0000\n"
+"PO-Revision-Date: 2014-03-05 20:55+0100\n"
+"Last-Translator: Balázs Úr <urbalazs at gmail dot com>\n"
+"Language-Team: Hungarian <gnome-hu-list at gnome dot org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+
+#: ../plug-ins/pygimp/gimpfu.py:394
+msgid "Missing exception information"
+msgstr "Hiányzó kivételinformációk"
+
+#: ../plug-ins/pygimp/gimpfu.py:403
+#, python-format
+msgid "An error occurred running %s"
+msgstr "Hiba történt a következő futtatásakor: %s"
+
+#: ../plug-ins/pygimp/gimpfu.py:414
+msgid "_More Information"
+msgstr "_További információk"
+
+#: ../plug-ins/pygimp/gimpfu.py:526 ../plug-ins/pygimp/gimpfu.py:538
+#: ../plug-ins/pygimp/gimpfu.py:544
+msgid "No"
+msgstr "Nem"
+
+#: ../plug-ins/pygimp/gimpfu.py:536 ../plug-ins/pygimp/gimpfu.py:544
+msgid "Yes"
+msgstr "Igen"
+
+#: ../plug-ins/pygimp/gimpfu.py:597 ../plug-ins/pygimp/gimpui.py:223
+msgid "Python-Fu File Selection"
+msgstr "Python-Fu fájlválasztás"
+
+#: ../plug-ins/pygimp/gimpfu.py:643
+msgid "Python-Fu Folder Selection"
+msgstr "Python-Fu mappaválasztás"
+
+#: ../plug-ins/pygimp/gimpfu.py:732
+#, python-format
+msgid "Invalid input for '%s'"
+msgstr "A(z) „%s” bemenete érvénytelen"
+
+#: ../plug-ins/pygimp/gimpui.py:176
+msgid "Python-Fu Color Selection"
+msgstr "Python-Fu színválasztás"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:109
+msgid "Saving as colored XHTML"
+msgstr "Mentés színes XHTML-ként"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:186
+msgid "Save as colored XHTML"
+msgstr "Mentés színes XHTML-ként"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:191
+msgid "Colored XHTML"
+msgstr "Színes XHTML"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:198
+msgid "Character _source"
+msgstr "_Karakterforrás"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:199
+msgid "Source code"
+msgstr "Forráskód"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:200
+msgid "Text file"
+msgstr "Szövegfájl"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:201
+msgid "Entry box"
+msgstr "Beviteli mező"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:202
+msgid "_File to read or characters to use"
+msgstr "_Olvasandó fájl vagy használandó karakterek"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:204
+msgid "Fo_nt size in pixels"
+msgstr "Betű_méret képpontokban"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:205
+msgid "_Write a separate CSS file"
+msgstr "Önálló _CSS fájl írása"
+
+#: ../plug-ins/pygimp/plug-ins/gradients-save-as-css.py:96
+msgid "Gradient to use"
+msgstr "Használandó színátmenet"
+
+#: ../plug-ins/pygimp/plug-ins/gradients-save-as-css.py:97
+msgid "File Name"
+msgstr "Fájlnév"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:88
+msgid "Exports the image histogram to a text file (CSV)"
+msgstr "A kép hisztogramot exportálja szövegfájlba (CSV)"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:93
+msgid "_Export histogram..."
+msgstr "Hisztogram _exportálása…"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:95
+msgid "_Image"
+msgstr "_Kép"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:96
+msgid "_Drawable"
+msgstr "_Rajzolható"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:97
+msgid "Histogram _File"
+msgstr "Hisztogram _fájl"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:98
+msgid "_Bucket Size"
+msgstr "Vö_dör mérete"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:99
+msgid "Sample _Average"
+msgstr "Minta átl_ag"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:100
+msgid "Output format"
+msgstr "Kimeneti formátum"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:101
+msgid "Pixel count"
+msgstr "Képpontszám"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:102
+msgid "Normalized"
+msgstr "Normalizált"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:103
+msgid "Percent"
+msgstr "Százalék"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:56
+msgid "Add a layer of fog"
+msgstr "Ködréteg hozzáadása"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:61
+msgid "_Fog..."
+msgstr "_Köd…"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:66
+msgid "_Layer name"
+msgstr "Réteg _neve"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:66
+msgid "Clouds"
+msgstr "Felhők"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:67
+msgid "_Fog color"
+msgstr "A _köd színe"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:68
+msgid "_Turbulence"
+msgstr "Ö_rvénylés"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:69
+msgid "Op_acity"
+msgstr "Át_látszatlanság"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:44
+msgid "Offset the colors in a palette"
+msgstr "Színek eltolása egy palettában"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:49
+msgid "_Offset Palette..."
+msgstr "Paletta _eltolása…"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:52
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:334
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:59
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:81
+msgid "Palette"
+msgstr "Paletta"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:53
+msgid "Off_set"
+msgstr "_Eltolás"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Red"
+msgstr "Vörös"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Green"
+msgstr "Zöld"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Blue"
+msgstr "Kék"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:26
+msgid "Luma (Y)"
+msgstr "Fényesség (Y)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Hue"
+msgstr "Árnyalat"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Saturation"
+msgstr "Telítettség"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Value"
+msgstr "Érték"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:28
+msgid "Saturation (HSL)"
+msgstr "Telítettség (HSL)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:28
+msgid "Lightness (HSL)"
+msgstr "Fényesség (HSL)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:29
+msgid "Index"
+msgstr "Index"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:30
+msgid "Random"
+msgstr "Véletlen"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:81
+msgid "Lightness (LAB)"
+msgstr "Fényesség (LAB)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:82
+msgid "A-color"
+msgstr "A-szín"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:82
+msgid "B-color"
+msgstr "B-szín"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:83
+msgid "Chroma (LCHab)"
+msgstr "Színesség (LCHab)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:84
+msgid "Hue (LCHab)"
+msgstr "Árnyalat (LCHab)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:312
+msgid "Sort the colors in a palette"
+msgstr "Paletta színeinek rendezése"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:331
+msgid "_Sort Palette..."
+msgstr "Paletta _rendezése…"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:335
+msgid "Se_lections"
+msgstr "_Kijelölések"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "All"
+msgstr "Összes"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "Slice / Array"
+msgstr "Szelet / Tömb"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "Autoslice (fg->bg)"
+msgstr "Automatikus szeletelés (fg->bg)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:337
+msgid "Partitioned"
+msgstr "Felosztott"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:338
+msgid "Slice _expression"
+msgstr "Szeletelés ki_fejezés"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:339
+msgid "Channel to _sort"
+msgstr "Rendezendő _csatorna"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:341
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:344
+msgid "_Ascending"
+msgstr "Nö_vekvő"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:342
+#| msgid "Channel to _sort"
+msgid "Secondary Channel to s_ort"
+msgstr "_Rendezendő másodlagos csatorna"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:345
+msgid "_Quantization"
+msgstr "_Kvantálás"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:346
+msgid "_Partitioning channel"
+msgstr "Csatorna _felosztása"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:348
+msgid "Partition q_uantization"
+msgstr "Felosztás k_vantálása"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:52
+msgid "Create a repeating gradient using colors from the palette"
+msgstr "Ismétlődő színátmenet létrehozása a paletta színeit felhasználva"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:57
+msgid "Palette to _Repeating Gradient"
+msgstr "Palettát is_métlődő színátmenetté"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:74
+msgid "Create a gradient using colors from the palette"
+msgstr "Színátmenet létrehozása a paletta színeit felhasználva"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:79
+msgid "Palette to _Gradient"
+msgstr "Palettát színátme_netté"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:59
+msgid "Slice"
+msgstr "Szeletelés"
+
+#. table snippet means a small piece of HTML code here
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:420
+msgid "Cuts an image along its guides, creates images and a HTML table snippet"
+msgstr ""
+"Kép vágása a segédvonalak mentén – képeket és egy HTML-táblázathoz való "
+"kódot hoz létre"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:431
+msgid "_Slice..."
+msgstr "_Szeletelés…"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:436
+msgid "Path for HTML export"
+msgstr "Útvonal a HTML-exportáláshoz"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:437
+msgid "Filename for export"
+msgstr "Fájlnév az exportáláshoz"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:438
+msgid "Image name prefix"
+msgstr "Képnév-előtag"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:439
+msgid "Image format"
+msgstr "Képformátum"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:440
+msgid "Separate image folder"
+msgstr "Különálló képmappa"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:442
+msgid "Folder for image export"
+msgstr "Mappa a kép-exportáláshoz"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:443
+msgid "Space between table elements"
+msgstr "Helykihagyás a táblázat-elemek közt"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:445
+msgid "Javascript for onmouseover and clicked"
+msgstr "Javascript-kód rámutatáshoz és kattintáshoz"
+
+#. table caps are table cells on the edge of the table
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:448
+msgid "Skip animation for table caps"
+msgstr "Animáció kihagyása a táblafeliratoknál"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:56
+msgid "Python Console"
+msgstr "Python-konzol"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:60
+msgid "_Browse..."
+msgstr "_Tallózás…"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:138
+msgid "Python Procedure Browser"
+msgstr "Python eljárásböngésző"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:167
+#, python-format
+msgid "Could not open '%s' for writing: %s"
+msgstr "„%s” nem nyitható meg írásra: %s"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:182
+#, python-format
+msgid "Could not write to '%s': %s"
+msgstr "„%s” nem írható: %s"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:190
+msgid "Save Python-Fu Console Output"
+msgstr "A Python-Fu konzolkimenetének mentése"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:216
+msgid "Interactive GIMP Python interpreter"
+msgstr "Interaktív GIMP-Python-fordító"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:221
+msgid "_Console"
+msgstr "_Konzol"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:60
+msgid "Add a drop shadow to a layer, and optionally bevel it"
+msgstr "Vetett árnyék hozzáadása egy réteghez esetleges rézsútos eltolással"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:65
+msgid "_Drop Shadow and Bevel..."
+msgstr "Vetett árnyék és rézsútos _eltolás…"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:70
+msgid "_Shadow blur"
+msgstr "Árnyék e_lmosása"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:71
+msgid "_Bevel"
+msgstr "Rézsútos _eltolás"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:72
+msgid "_Drop shadow"
+msgstr "_Vetett árnyék"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:73
+msgid "Drop shadow _X displacement"
+msgstr "Vetett árnyék _X-eltolása"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:74
+msgid "Drop shadow _Y displacement"
+msgstr "Vetett árnyék _Y-eltolása"
+
+#~ msgid "Color _model"
+#~ msgstr "Szí_nmodell"
+
+#~ msgid "RGB"
+#~ msgstr "RGB"
+
+#~ msgid "HSV"
+#~ msgstr "HSV"
+
+#~ msgid "Red or Hue"
+#~ msgstr "Vörös vagy árnyalat"
+
+#~ msgid "Blue or Value"
+#~ msgstr "Kék vagy érték"
+
+#~ msgid "Create a new brush with characters from a text sequence"
+#~ msgstr "Új ecset létrehozása egy szöveg karaktereiből"
+
+#~ msgid "New Brush from _Text..."
+#~ msgstr "Új _ecset szövegből…"
+
+#~ msgid "Font"
+#~ msgstr "Betűkészlet"
+
+#~ msgid "Pixel Size"
+#~ msgstr "Képpontméret"
+
+#~| msgid "Text file"
+#~ msgid "Text"
+#~ msgstr "Szöveg"

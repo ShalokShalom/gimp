@@ -1,0 +1,11 @@
+/Makefile
+/Makefile.in
+/.deps
+/.libs
+/*.lo
+/foorc
+/libappconfig.a
+/libappconfig.la
+/test-config
+/*.trs
+/*.log

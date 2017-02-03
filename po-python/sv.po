@@ -1,0 +1,485 @@
+# Swedish messages for GIMP Python.
+# Copyright © 2000-2003, 2007-2010, 2016 Free Software Foundation, Inc.
+# Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
+# Jan Morén <jan.moren@lucs.lu.se>, 2003.
+# Tomas Ögren <stric@ing.umu.se>, 2001.
+# Daniel Nylander <po@danielnylander.se>, 2007, 2008, 2009, 2010.
+# Sebastian Rasmussen <sebras@gmail.com>, 2015, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-python\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gimp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-11-07 19:13+0000\n"
+"PO-Revision-Date: 2016-03-05 17:50+0100\n"
+"Last-Translator: Sebastian Rasmussen <sebras@gmail.com>\n"
+"Language-Team: Swedish <tp-sv@listor.tp-sv.se>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: ../plug-ins/pygimp/gimpfu.py:394
+msgid "Missing exception information"
+msgstr "Undantagsinformation saknas"
+
+#: ../plug-ins/pygimp/gimpfu.py:403
+#, python-format
+msgid "An error occurred running %s"
+msgstr "Ett fel inträffade vid körning av %s"
+
+#: ../plug-ins/pygimp/gimpfu.py:414
+msgid "_More Information"
+msgstr "_Mer information"
+
+#: ../plug-ins/pygimp/gimpfu.py:527 ../plug-ins/pygimp/gimpfu.py:539
+#: ../plug-ins/pygimp/gimpfu.py:545
+msgid "No"
+msgstr "Nej"
+
+#: ../plug-ins/pygimp/gimpfu.py:537 ../plug-ins/pygimp/gimpfu.py:545
+msgid "Yes"
+msgstr "Ja"
+
+#: ../plug-ins/pygimp/gimpfu.py:598 ../plug-ins/pygimp/gimpui.py:223
+msgid "Python-Fu File Selection"
+msgstr "Python-Fu filväljare"
+
+#: ../plug-ins/pygimp/gimpfu.py:644
+msgid "Python-Fu Folder Selection"
+msgstr "Python-Fu mappväljare"
+
+#: ../plug-ins/pygimp/gimpfu.py:733
+#, python-format
+msgid "Invalid input for '%s'"
+msgstr "Ogiltig inmatning för \"%s\""
+
+#: ../plug-ins/pygimp/gimpui.py:176
+msgid "Python-Fu Color Selection"
+msgstr "Python-Fu färgval"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:109
+msgid "Saving as colored XHTML"
+msgstr "Sparar som färglagd XHTML"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:186
+msgid "Save as colored XHTML"
+msgstr "Spara som färglagd XHTML"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:191
+msgid "Colored XHTML"
+msgstr "Färglagd XHTML"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:198
+msgid "Character _source"
+msgstr "Tecken_källa"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:199
+msgid "Source code"
+msgstr "Källkod"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:200
+msgid "Text file"
+msgstr "Textfil"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:201
+msgid "Entry box"
+msgstr "Inmatningsruta"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:202
+msgid "_File to read or characters to use"
+msgstr "_Fil att läsa eller tecken att använda"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:204
+msgid "Fo_nt size in pixels"
+msgstr "Typs_nittsstorlek i bildpunkter"
+
+#: ../plug-ins/pygimp/plug-ins/colorxhtml.py:205
+msgid "_Write a separate CSS file"
+msgstr "Sk_riv en separat CSS-fil"
+
+#: ../plug-ins/pygimp/plug-ins/gradients-save-as-css.py:96
+msgid "Gradient to use"
+msgstr "Gradient att använda"
+
+#: ../plug-ins/pygimp/plug-ins/gradients-save-as-css.py:97
+msgid "File Name"
+msgstr "Filnamn"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:88
+msgid "Exports the image histogram to a text file (CSV)"
+msgstr "Exporterar bildens histogram till en textfil (CSV)"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:93
+msgid "_Export histogram..."
+msgstr "_Exportera histogram…"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:95
+msgid "_Image"
+msgstr "_Bild"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:96
+msgid "_Drawable"
+msgstr "_Rityta"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:97
+msgid "Histogram _File"
+msgstr "Histogram_fil"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:98
+msgid "_Bucket Size"
+msgstr "_Hinkstorlek"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:99
+msgid "Sample _Average"
+msgstr "Sampelmedel"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:100
+msgid "Output format"
+msgstr "Utmatningsformat"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:101
+msgid "Pixel count"
+msgstr "Antal bildpunkter"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:102
+msgid "Normalized"
+msgstr "Normaliserad"
+
+#: ../plug-ins/pygimp/plug-ins/histogram-export.py:103
+msgid "Percent"
+msgstr "Procent"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:56
+msgid "Add a layer of fog"
+msgstr "Lägg till ett lager av dimma"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:61
+msgid "_Fog..."
+msgstr "_Dimma..."
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:66
+msgid "_Layer name"
+msgstr "_Lagernamn"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:66
+msgid "Clouds"
+msgstr "Moln"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:67
+msgid "_Fog color"
+msgstr "_Färg på dimma"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:68
+msgid "_Turbulence"
+msgstr "_Turbulens"
+
+#: ../plug-ins/pygimp/plug-ins/foggify.py:69
+msgid "Op_acity"
+msgstr "Op_acitet"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:44
+msgid "Offset the colors in a palette"
+msgstr "Skifta färgerna i en palett"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:49
+msgid "_Offset Palette..."
+msgstr "_Skifta i palett..."
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:52
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:334
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:59
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:81
+msgid "Palette"
+msgstr "Palett"
+
+#: ../plug-ins/pygimp/plug-ins/palette-offset.py:53
+msgid "Off_set"
+msgstr "Po_sition"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Red"
+msgstr "Röd"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Green"
+msgstr "Grön"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:25
+msgid "Blue"
+msgstr "Blå"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:26
+msgid "Luma (Y)"
+msgstr "Luminans (Y)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Hue"
+msgstr "Nyans"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Saturation"
+msgstr "Mättnad"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:27
+msgid "Value"
+msgstr "Intensitet"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:28
+msgid "Saturation (HSL)"
+msgstr "Mättnad (HSL)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:28
+msgid "Lightness (HSL)"
+msgstr "Ljushet (HSL)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:29
+msgid "Index"
+msgstr "Index"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:30
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:81
+msgid "Lightness (LAB)"
+msgstr "Ljushet (LAB)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:82
+msgid "A-color"
+msgstr "A-färg"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:82
+msgid "B-color"
+msgstr "B-färg"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:83
+msgid "Chroma (LCHab)"
+msgstr "Krominans (LCHab)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:84
+msgid "Hue (LCHab)"
+msgstr "Nyans (LCHab)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:312
+msgid "Sort the colors in a palette"
+msgstr "Sortera färgerna i en palett"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:331
+msgid "_Sort Palette..."
+msgstr "_Sortera palett..."
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:335
+msgid "Se_lections"
+msgstr "_Markeringar"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "All"
+msgstr "Alla"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "Slice / Array"
+msgstr "Skiva / Vektor"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:336
+msgid "Autoslice (fg->bg)"
+msgstr "Autoskivning (förgr->bakgr)"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:337
+msgid "Partitioned"
+msgstr "Partitionerad"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:338
+msgid "Slice _expression"
+msgstr "Skiv_uttryck"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:339
+msgid "Channel to _sort"
+msgstr "Kanal att _sortera"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:341
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:344
+msgid "_Ascending"
+msgstr "_Stigande"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:342
+msgid "Secondary Channel to s_ort"
+msgstr "Sekundär kanal att s_ortera"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:345
+msgid "_Quantization"
+msgstr "_Kvantisering"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:346
+msgid "_Partitioning channel"
+msgstr "_Partitioneringskanal"
+
+#: ../plug-ins/pygimp/plug-ins/palette-sort.py:348
+msgid "Partition q_uantization"
+msgstr "_Kvantisering för partitionering"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:52
+msgid "Create a repeating gradient using colors from the palette"
+msgstr "Skapa en upprepande gradient med färger från paletten"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:57
+msgid "Palette to _Repeating Gradient"
+msgstr "Palett till _upprepande gradient"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:74
+msgid "Create a gradient using colors from the palette"
+msgstr "Skapa en gradient med färger från paletten"
+
+#: ../plug-ins/pygimp/plug-ins/palette-to-gradient.py:79
+msgid "Palette to _Gradient"
+msgstr "Palett till _gradient"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:59
+msgid "Slice"
+msgstr "Skär"
+
+#. table snippet means a small piece of HTML code here
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:420
+msgid "Cuts an image along its guides, creates images and a HTML table snippet"
+msgstr ""
+"Skär en bild längs dess hjälplinjer, skapar bilder och en HTML-tabellsnutt"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:431
+msgid "_Slice..."
+msgstr "_Skär..."
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:436
+msgid "Path for HTML export"
+msgstr "Sökväg för HTML-export"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:437
+msgid "Filename for export"
+msgstr "Filnamn för export"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:438
+msgid "Image name prefix"
+msgstr "Prefix för bildnamn"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:439
+msgid "Image format"
+msgstr "Bildformat"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:440
+msgid "Separate image folder"
+msgstr "Separat bildmapp"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:442
+msgid "Folder for image export"
+msgstr "Mapp för bildexport"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:443
+msgid "Space between table elements"
+msgstr "Utrymme mellan tabellelement"
+
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:445
+msgid "Javascript for onmouseover and clicked"
+msgstr "Javascript för onmouseover och clicked"
+
+#. table caps are table cells on the edge of the table
+#: ../plug-ins/pygimp/plug-ins/py-slice.py:448
+msgid "Skip animation for table caps"
+msgstr "Hoppa över animering för tabelltexter"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:56
+msgid "Python Console"
+msgstr "Python-konsol"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:60
+msgid "_Browse..."
+msgstr "_Bläddra..."
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:138
+msgid "Python Procedure Browser"
+msgstr "Bläddrare för Python-procedurer"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:167
+#, python-format
+msgid "Could not open '%s' for writing: %s"
+msgstr "Kunde inte öppna \"%s\" för skrivning: %s"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:182
+#, python-format
+msgid "Could not write to '%s': %s"
+msgstr "Kunde inte skriva till \"%s\": %s"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:190
+msgid "Save Python-Fu Console Output"
+msgstr "Spara konsolutdata för Python-Fu"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:216
+msgid "Interactive GIMP Python interpreter"
+msgstr "Interaktiv GIMP Python-tolk"
+
+#: ../plug-ins/pygimp/plug-ins/python-console.py:221
+msgid "_Console"
+msgstr "_Konsol"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:60
+msgid "Add a drop shadow to a layer, and optionally bevel it"
+msgstr ""
+"Lägg till en skuggkastning till ett lager, och eventuellt fasa dess kanter"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:65
+msgid "_Drop Shadow and Bevel..."
+msgstr "Skug_gkastning och fasning..."
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:70
+msgid "_Shadow blur"
+msgstr "_Oskarp skugga"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:71
+msgid "_Bevel"
+msgstr "_Fasning"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:72
+msgid "_Drop shadow"
+msgstr "S_kuggkastning"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:73
+msgid "Drop shadow _X displacement"
+msgstr "_X-förskjutning för skuggkastning"
+
+#: ../plug-ins/pygimp/plug-ins/shadow_bevel.py:74
+msgid "Drop shadow _Y displacement"
+msgstr "_Y-förskjutning för skuggkastning"
+
+#~ msgid "Color _model"
+#~ msgstr "Färg_modell"
+
+#~ msgid "RGB"
+#~ msgstr "RGB"
+
+#~ msgid "HSV"
+#~ msgstr "NMI"
+
+#~ msgid "Red or Hue"
+#~ msgstr "Röd eller nyans"
+
+#~ msgid "Blue or Value"
+#~ msgstr "Blå eller intensitet"
+
+#~ msgid "Create a new brush with characters from a text sequence"
+#~ msgstr "Skapa en ny pensel med tecken från en textsekvens"
+
+#~ msgid "New Brush from _Text..."
+#~ msgstr "Ny pensel från _text..."
+
+#~ msgid "Font"
+#~ msgstr "Typsnitt"
+
+#~ msgid "Pixel Size"
+#~ msgstr "Bildpunktsstorlek"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#, fuzzy
+#~ msgid "Gimp-Python Console"
+#~ msgstr "Python-konsoll"

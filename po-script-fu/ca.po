@@ -1,0 +1,1211 @@
+# translation of ca.po to Catalan
+# gimp-script-fu translation to Catalan.
+# Copyright © 2000, 2001, 2003, 2004, 2005, 2006, 2007, 2008 Free Software Foundation, Inc.
+#
+# Softcatala <gimp a llistes.softcatala.org>, 2000-2008.
+# Quim Perez i Noguer <noguer a gmail.com>, 2005-2008.
+# Xavier Conde Rueda <xavi.conde a gmail.com>, 2004-2007.
+# Jordi Jover, jordijn@softcatala.org, 2002.
+# Quim Perez i Noguer <noguer@gmail.com>, 2008, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: ca\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gimp&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-05-24 05:35+0000\n"
+"PO-Revision-Date: 2015-05-24 08:40+0100\n"
+"Last-Translator: Albert F. <lakonfrariadelavila@gmail.com>\n"
+"Language-Team: Catalan <gimp a llistes.softcatala.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: ../plug-ins/script-fu/script-fu.c:111
+msgid "Interactive console for Script-Fu development"
+msgstr "Consola interactiva per al desenvolupament de funcions"
+
+#: ../plug-ins/script-fu/script-fu.c:117
+msgid "_Console"
+msgstr "_Consola"
+
+#: ../plug-ins/script-fu/script-fu.c:141
+msgid "Server for remote Script-Fu operation"
+msgstr "Servidor per a l'execució remota de funcions"
+
+#: ../plug-ins/script-fu/script-fu.c:151
+msgid "_Start Server..."
+msgstr "_Inicia el servidor..."
+
+#: ../plug-ins/script-fu/script-fu.c:306
+msgid "_GIMP Online"
+msgstr "El _GIMP a la xarxa "
+
+#: ../plug-ins/script-fu/script-fu.c:307
+msgid "_User Manual"
+msgstr "_Manual d'usuari"
+
+#  strip the first part of the menupath if it contains _("/Script-Fu/")
+#  strip the first part of the menupath if it contains _("/Script-Fu/")
+#: ../plug-ins/script-fu/script-fu.c:310
+msgid "_Script-Fu"
+msgstr "_Script-Fu"
+
+#: ../plug-ins/script-fu/script-fu.c:312
+msgid "_Test"
+msgstr "_Test"
+
+#: ../plug-ins/script-fu/script-fu.c:315
+msgid "_Buttons"
+msgstr "_Botons"
+
+#: ../plug-ins/script-fu/script-fu.c:317
+msgid "_Logos"
+msgstr "_Logotips i rètols"
+
+#: ../plug-ins/script-fu/script-fu.c:319
+msgid "_Patterns"
+msgstr "_Patrons"
+
+#: ../plug-ins/script-fu/script-fu.c:322
+msgid "_Web Page Themes"
+msgstr "_Temes de pàgina web"
+
+#: ../plug-ins/script-fu/script-fu.c:324
+msgid "_Alien Glow"
+msgstr "Lluentor estil _Àlien"
+
+#: ../plug-ins/script-fu/script-fu.c:326
+msgid "_Beveled Pattern"
+msgstr "Patró_ bisellat"
+
+#: ../plug-ins/script-fu/script-fu.c:328
+msgid "_Classic.Gimp.Org"
+msgstr "_Clàssic.Gimp.org"
+
+#: ../plug-ins/script-fu/script-fu.c:331
+msgid "Alpha to _Logo"
+msgstr "Canal alfa a _logotip"
+
+#: ../plug-ins/script-fu/script-fu.c:334
+msgid "Re-read all available Script-Fu scripts"
+msgstr "Torna a carregar totes les funcions disponibles"
+
+#: ../plug-ins/script-fu/script-fu.c:339
+msgid "_Refresh Scripts"
+msgstr "_Actualitza les funcions"
+
+#: ../plug-ins/script-fu/script-fu.c:362
+msgid ""
+"You can not use \"Refresh Scripts\" while a Script-Fu dialog box is open.  "
+"Please close all Script-Fu windows and try again."
+msgstr ""
+"No podeu utilitzar «Actualitza les funcions» si teniu obert un diàleg "
+"d'alguna funció. Tanqueu totes les finestres de funcions i filtres, i torneu-"
+"ho a provar."
+
+#: ../plug-ins/script-fu/script-fu-console.c:127
+#: ../plug-ins/script-fu/script-fu-console.c:194
+msgid "Script-Fu Console"
+msgstr "Consola de les funcions"
+
+#: ../plug-ins/script-fu/script-fu-console.c:190
+msgid "Welcome to TinyScheme"
+msgstr "Benvinguts al TinyScheme"
+
+#: ../plug-ins/script-fu/script-fu-console.c:196
+msgid "Interactive Scheme Development"
+msgstr "Consola interactiva de l'Scheme"
+
+#: ../plug-ins/script-fu/script-fu-console.c:232
+msgid "_Browse..."
+msgstr "_Cerca..."
+
+#: ../plug-ins/script-fu/script-fu-console.c:288
+msgid "Save Script-Fu Console Output"
+msgstr "Desa la sortida de la consola de funcions"
+
+#: ../plug-ins/script-fu/script-fu-console.c:335
+#, c-format
+msgid "Could not open '%s' for writing: %s"
+msgstr "No s'ha pogut obrir «%s» per escriure: %s"
+
+#: ../plug-ins/script-fu/script-fu-console.c:364
+msgid "Script-Fu Procedure Browser"
+msgstr "Gestor de funcions"
+
+#: ../plug-ins/script-fu/script-fu-eval.c:60
+msgid "Script-Fu evaluation mode only allows non-interactive invocation"
+msgstr ""
+"Si s'activa l'avaluador de funcions només es permetrà la invocació no "
+"interactiva de les funcions"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:198
+msgid "Script-Fu cannot process two scripts at the same time."
+msgstr "Una funció no pot processar dues seqüències al mateix temps."
+
+#: ../plug-ins/script-fu/script-fu-interface.c:200
+#, c-format
+msgid "You are already running the \"%s\" script."
+msgstr "Ja esteu executant la funció «%s» ."
+
+#: ../plug-ins/script-fu/script-fu-interface.c:226
+#, c-format
+msgid "Script-Fu: %s"
+msgstr "Funció: %s"
+
+#  we add a colon after the label;
+#  some languages want an extra space here
+#. we add a colon after the label;
+#. *  some languages want an extra space here
+#.
+#: ../plug-ins/script-fu/script-fu-interface.c:289
+#, c-format
+msgid "%s:"
+msgstr "%s:"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:336
+msgid "Script-Fu Color Selection"
+msgstr "Funció de selecció del color"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:446
+msgid "Script-Fu File Selection"
+msgstr "Funció de selecció del fitxer"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:449
+msgid "Script-Fu Folder Selection"
+msgstr "Funció de selecció de la carpeta"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:462
+msgid "Script-Fu Font Selection"
+msgstr "Funció de selecció del tipus de lletra"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:470
+msgid "Script-Fu Palette Selection"
+msgstr "Funció de selecció de la paleta"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:479
+msgid "Script-Fu Pattern Selection"
+msgstr "Funció de selecció del patró"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:488
+msgid "Script-Fu Gradient Selection"
+msgstr "Funció de selecció del degradat"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:497
+msgid "Script-Fu Brush Selection"
+msgstr "Funció de selecció del pinzell"
+
+#: ../plug-ins/script-fu/script-fu-interface.c:857
+#, c-format
+msgid "Error while executing %s:"
+msgstr "S'ha produït un error mentre s'executava %s:"
+
+#: ../plug-ins/script-fu/script-fu-scripts.c:149
+msgid "Too few arguments to 'script-fu-register' call"
+msgstr "Falten paràmetres per a fer la crida al «script-fu-register»"
+
+#: ../plug-ins/script-fu/script-fu-scripts.c:644
+#, c-format
+msgid "Error while loading %s:"
+msgstr "S'ha produït un error en carregar %s:"
+
+#: ../plug-ins/script-fu/script-fu-server.c:827
+msgid "Script-Fu Server Options"
+msgstr "Opcions de servidor de funcions"
+
+#: ../plug-ins/script-fu/script-fu-server.c:832
+msgid "_Start Server"
+msgstr "_Inicia el servidor"
+
+#: ../plug-ins/script-fu/script-fu-server.c:865
+msgid "Listen on IP:"
+msgstr "Escolta en la IP:"
+
+#: ../plug-ins/script-fu/script-fu-server.c:872
+msgid "Server port:"
+msgstr "Port del servidor:"
+
+#: ../plug-ins/script-fu/script-fu-server.c:878
+msgid "Server logfile:"
+msgstr "Fitxer de registre del servidor:"
+
+#: ../plug-ins/script-fu/script-fu-server.c:891
+msgid ""
+"Listening on an IP address other than 127.0.0.1 (especially 0.0.0.0) can "
+"allow attackers to remotely execute arbitrary code on this machine."
+msgstr ""
+"L'escolta en una IP diferent de 127.0.0.1 (especialment 0.0.0.0) permet a "
+"possibles atacants l'execució remota de codi arbitrari en aquesta màquina."
+
+#: ../plug-ins/script-fu/scripts/erase-rows.scm:47
+msgid "Rows"
+msgstr "Files"
+
+#: ../plug-ins/script-fu/scripts/erase-rows.scm:48
+msgid "Even"
+msgstr "Parell"
+
+#: ../plug-ins/script-fu/scripts/erase-rows.scm:49
+msgid "Erase"
+msgstr "Esborra"
+
+#: ../plug-ins/script-fu/scripts/font-map.scm:164
+msgid "Black on white"
+msgstr "Negre sobre blanc"
+
+#: ../plug-ins/script-fu/scripts/guides-new-percent.scm:35
+#: ../plug-ins/script-fu/scripts/guides-new.scm:35
+msgid "Horizontal"
+msgstr "Horitzontal"
+
+#: ../plug-ins/script-fu/scripts/ripply-anim.scm:77
+msgid "Wrap"
+msgstr "Envolta"
+
+#: ../plug-ins/script-fu/scripts/spyrogimp.scm:323
+msgid "Spyrograph"
+msgstr "Espirògraf"
+
+#: ../plug-ins/script-fu/scripts/spyrogimp.scm:326
+msgid "Circle"
+msgstr "Cercle"
+
+#: ../plug-ins/script-fu/scripts/spyrogimp.scm:342
+msgid "Pencil"
+msgstr "Llapis"
+
+#: ../plug-ins/script-fu/scripts/spyrogimp.scm:347
+msgid "Solid Color"
+msgstr "Color sòlid"
+
+#: ../plug-ins/script-fu/scripts/tileblur.scm:79
+msgid "IIR"
+msgstr "IIR"
+
+#~ msgid "Bumpmap"
+#~ msgstr "Mapa de relleu"
+
+#~ msgid "Add B_evel..."
+#~ msgstr "Emmarca amb _relleu..."
+
+#~ msgid "Add a beveled border to an image"
+#~ msgstr "Posa un marc bisellat a la imatge"
+
+#~ msgid "Thickness"
+#~ msgstr "Gruix"
+
+#~ msgid "Work on copy"
+#~ msgstr "Treballa en una còpia"
+
+#~ msgid "Keep bump layer"
+#~ msgstr "Conserva la capa del relleu"
+
+#~ msgid "Border Layer"
+#~ msgstr "Vora de la capa"
+
+#~ msgid "Add _Border..."
+#~ msgstr "Em_marca..."
+
+#~ msgid "Add a border around an image"
+#~ msgstr "Posa un marc al voltant de la imatge"
+
+#~ msgid "Border X size"
+#~ msgstr "Mida del marge X"
+
+#~ msgid "Border Y size"
+#~ msgstr "Mida del marge Y"
+
+#~ msgid "Border color"
+#~ msgstr "Color del marge"
+
+#~ msgid "Delta value on color"
+#~ msgstr "Valor delta del color"
+
+#~ msgid "Frame"
+#~ msgstr "Marc"
+
+#~ msgid "Blend Animation needs at least three source layers"
+#~ msgstr "L'animació necessita com a mínim tres capes"
+
+# Quim: a partir de 3 imatges crea una animació de transició
+#~ msgid "_Blend..."
+#~ msgstr "_Degradat..."
+
+#~ msgid ""
+#~ "Create intermediate layers to blend two or more layers over a background "
+#~ "as an animation"
+#~ msgstr ""
+#~ "Crea capes intermèdies per superposar i fondre dues o més capes damunt "
+#~ "d'un fons per animació."
+
+# Quim: nombre de imatges que es posen entre mig de dos fotogrames per fer una transició en Blend animation
+#~ msgid "Intermediate frames"
+#~ msgstr "Fotogrames de transició"
+
+#~ msgid "Max. blur radius"
+#~ msgstr "Radi màxim del difuminat"
+
+#~ msgid "Looped"
+#~ msgstr "En acabar torna a començar"
+
+#~ msgid ""
+#~ "The Burn-In script needs two layers in total. A foreground layer with "
+#~ "transparency and a background layer."
+#~ msgstr ""
+#~ "La funció Crema necessita dues capes en total. Una capa transparent al "
+#~ "davant i una capa de fons."
+
+#~ msgid "B_urn-In..."
+#~ msgstr "Cre_ma..."
+
+#~ msgid ""
+#~ "Create intermediate layers to produce an animated 'burn-in' transition "
+#~ "between two layers"
+#~ msgstr ""
+#~ "Crea capes intermèdies per produir una transició animada i cremada entre "
+#~ "dues capes"
+
+#~ msgid "Glow color"
+#~ msgstr "Color de la lluentor"
+
+#~ msgid "Fadeout"
+#~ msgstr "Esvaeix"
+
+#~ msgid "Fadeout width"
+#~ msgstr "Amplada de l'esvaïment"
+
+#~ msgid "Corona width"
+#~ msgstr "Amplada de la corona"
+
+#~ msgid "After glow"
+#~ msgstr "Després de la lluentor"
+
+#~ msgid "Add glowing"
+#~ msgstr "Afegeix lluentor"
+
+#~ msgid "Prepare for GIF"
+#~ msgstr "Prepara per a un GIF"
+
+#~ msgid "Speed (pixels/frame)"
+#~ msgstr "Velocitat (píxels/fotograma)"
+
+#~ msgid "Carved Surface"
+#~ msgstr "Superfície Esculpida"
+
+#~ msgid "Bevel Shadow"
+#~ msgstr "Ombra bisellada "
+
+#~ msgid "Bevel Highlight"
+#~ msgstr "Ressaltat bisellat "
+
+#~ msgid "Cast Shadow"
+#~ msgstr "Ombra "
+
+#~ msgid "Inset"
+#~ msgstr "Rebaixat"
+
+#~ msgid "Stencil C_arve..."
+#~ msgstr "Estergit e_sculpit..."
+
+#~ msgid "Image to carve"
+#~ msgstr "Imatge per esculpir"
+
+#~ msgid "Carve white areas"
+#~ msgstr "Esculpeix les àrees blanques"
+
+#~ msgid "Background"
+#~ msgstr "Fons"
+
+#~ msgid "Layer 1"
+#~ msgstr "Capa 1"
+
+#~ msgid "Layer 2"
+#~ msgstr "Capa 2"
+
+#~ msgid "Layer 3"
+#~ msgstr "Capa 3"
+
+#~ msgid "Drop Shadow"
+#~ msgstr "Ombra "
+
+#~ msgid "Chrome"
+#~ msgstr "Crom"
+
+#~ msgid "Highlight"
+#~ msgstr "Ressaltat"
+
+#~ msgid "Stencil C_hrome..."
+#~ msgstr "Estergit c_romat..."
+
+#~ msgid ""
+#~ "Add a chrome effect to the selected region (or alpha) using a specified "
+#~ "(grayscale) stencil"
+#~ msgstr ""
+#~ "Afegeix un efecte cromat a la regió seleccionada (o canal alfa) "
+#~ "utilitzant un estergit específic (escala de grisos)"
+
+#~ msgid "Chrome saturation"
+#~ msgstr "Saturació del crom"
+
+#~ msgid "Chrome lightness"
+#~ msgstr "Lluminositat del crom"
+
+#~ msgid "Chrome factor"
+#~ msgstr "Brillantor"
+
+#~ msgid "Environment map"
+#~ msgstr "Mapa d'entorn"
+
+#~ msgid "Highlight balance"
+#~ msgstr "Ressalta el balanç"
+
+#~ msgid "Chrome balance"
+#~ msgstr "Balanç del crom"
+
+#~ msgid "Chrome white areas"
+#~ msgstr "Àrees blanques del crom"
+
+#~ msgid "Effect layer"
+#~ msgstr "Efecte de la capa"
+
+#~ msgid "_Circuit..."
+#~ msgstr "_Circuit..."
+
+#~ msgid ""
+#~ "Fill the selected region (or alpha) with traces like those on a circuit "
+#~ "board"
+#~ msgstr ""
+#~ "Omple la regió seleccionada (o canal alfa) amb un seguit de connexions "
+#~ "com les d'un circuit imprès"
+
+#~ msgid "Oilify mask size"
+#~ msgstr "Mida de la màscara d'oli"
+
+#~ msgid "Circuit seed"
+#~ msgstr "Llavor del circuit"
+
+#~ msgid "No background (only for separate layer)"
+#~ msgstr "Sense fons (només per la capa separada)"
+
+#~ msgid "Keep selection"
+#~ msgstr "Manté la selecció"
+
+#~ msgid "Separate layer"
+#~ msgstr "Separa la capa"
+
+#~ msgid "_Clothify..."
+#~ msgstr "_Tela..."
+
+#~ msgid "Add a cloth-like texture to the selected region (or alpha)"
+#~ msgstr "Afegeix una textura de tela a la regió seleccionada (o canal alfa)"
+
+#~ msgid "Blur X"
+#~ msgstr "Difumina en X"
+
+#~ msgid "Blur Y"
+#~ msgstr "Difumina en Y"
+
+#~ msgid "Azimuth"
+#~ msgstr "Azimut"
+
+#~ msgid "Elevation"
+#~ msgstr "Elevació"
+
+#~ msgid "Depth"
+#~ msgstr "Profunditat"
+
+#~ msgid "Stain"
+#~ msgstr "Taca"
+
+#~ msgid "_Coffee Stain..."
+#~ msgstr "Taca de _cafè..."
+
+#~ msgid "Add realistic looking coffee stains to the image"
+#~ msgstr "Afegeix a la imatge un efecte realista de taques de cafè"
+
+#~ msgid "Stains"
+#~ msgstr "Taques"
+
+#~ msgid "Darken only"
+#~ msgstr "Només enfosqueix"
+
+#~ msgid "Difference Clouds..."
+#~ msgstr "Núvols per diferència..."
+
+#~ msgid "Solid noise applied with Difference layer mode"
+#~ msgstr "Soroll sòlid aplicat amb el mode de capa «Diferència»"
+
+#~ msgid "_Distort..."
+#~ msgstr "_Distorsiona..."
+
+#~ msgid "Distress the selection"
+#~ msgstr "Deforma la selecció"
+
+#~ msgid "Threshold (bigger 1<-->254 smaller)"
+#~ msgstr "Llindar (més gran 1<-->254 més petit)"
+
+#~ msgid "Spread"
+#~ msgstr "Escampa"
+
+#~ msgid "Granularity (1 is low)"
+#~ msgstr "Granularitat (1 és baix)"
+
+#~ msgid "Smooth"
+#~ msgstr "Suavitza"
+
+#~ msgid "Smooth horizontally"
+#~ msgstr "Suavitza horitzontalment"
+
+#~ msgid "Smooth vertically"
+#~ msgstr "Suavitza verticalment"
+
+#~ msgid "_Drop Shadow..."
+#~ msgstr "_Ombra..."
+
+#~ msgid "Add a drop shadow to the selected region (or alpha)"
+#~ msgstr "Afegeix una ombra a la regió seleccionada (o canal alfa)"
+
+#~ msgid "Offset X"
+#~ msgstr "Desplaçament en X"
+
+#~ msgid "Offset Y"
+#~ msgstr "Desplaçament en Y"
+
+#~ msgid "Blur radius"
+#~ msgstr "Radi del difuminat"
+
+#~ msgid "Color"
+#~ msgstr "Color"
+
+#~ msgid "Opacity"
+#~ msgstr "Opacitat"
+
+#~ msgid "Allow resizing"
+#~ msgstr "Permet redimensionar"
+
+#~ msgid "_Erase Every Other Row..."
+#~ msgstr "_Esborra les altres files..."
+
+#~ msgid "Erase every other row or column"
+#~ msgstr "Esborra totes les altres files i columnes"
+
+#~ msgid "Rows/cols"
+#~ msgstr "Files/columnes"
+
+#~ msgid "Columns"
+#~ msgstr "Columnes"
+
+#~ msgid "Even/odd"
+#~ msgstr "Parell/senar"
+
+#~ msgid "Odd"
+#~ msgstr "Senar"
+
+#~ msgid "Erase/fill"
+#~ msgstr "Esborra/omple"
+
+#~ msgid "Fill with BG"
+#~ msgstr "Omple amb el fons"
+
+#~ msgid "Render _Font Map..."
+#~ msgstr "_Compon el mapa de caràcters..."
+
+#~ msgid ""
+#~ "Create an image filled with previews of fonts matching a fontname filter"
+#~ msgstr ""
+#~ "Crea una imatge amb mostres de tipus de lletra que encaixi amb un nom "
+#~ "determinat de tipus de lletra"
+
+#~ msgid "_Text"
+#~ msgstr "_Text"
+
+#~ msgid "Use font _name as text"
+#~ msgstr "Empra el tipus de lletra _nom a text"
+
+#~ msgid "_Labels"
+#~ msgstr "Eti_quetes"
+
+#~ msgid "_Filter (regexp)"
+#~ msgstr "_Filtre (expressió regular)"
+
+#~ msgid "Font _size (pixels)"
+#~ msgstr "_Mida de la lletra (píxels)"
+
+#~ msgid "_Border (pixels)"
+#~ msgstr "_Marge (píxels)"
+
+#~ msgid "_Color scheme"
+#~ msgstr "Esquema de _color"
+
+#~ msgid "Active colors"
+#~ msgstr "Colors actius"
+
+#~ msgid "_Fuzzy Border..."
+#~ msgstr "Marc _difuminat..."
+
+#~ msgid "Add a jagged, fuzzy border to an image"
+#~ msgstr "Afegeix un marc difuminat a la imatge"
+
+#~ msgid "Border size"
+#~ msgstr "Amplada de la vora"
+
+#~ msgid "Blur border"
+#~ msgstr "Difumina la vora"
+
+#~ msgid "Granularity (1 is Low)"
+#~ msgstr "Granularitat (1 és baix)"
+
+#~ msgid "Add shadow"
+#~ msgstr "Afegeix una ombra"
+
+#~ msgid "Shadow weight (%)"
+#~ msgstr "Pes de l'ombra (%)"
+
+#~ msgid "Flatten image"
+#~ msgstr "Aplana la imatge"
+
+#~ msgid "Using _Paths"
+#~ msgstr "Utilitza _camins"
+
+#~ msgid "Bookmark to the user manual"
+#~ msgstr "Marcador per al manual d'usuari"
+
+#~ msgid "_Preparing your Images for the Web"
+#~ msgstr "_Prepara les vostres imatges per al web"
+
+#~ msgid "_Working with Digital Camera Photos"
+#~ msgstr "_Manipula fotos fetes amb càmeres digitals"
+
+#~ msgid "Create, Open and Save _Files"
+#~ msgstr "Crea, obre i desa _fitxers"
+
+#~ msgid "_Basic Concepts"
+#~ msgstr "Conceptes _bàsics"
+
+#~ msgid "How to Use _Dialogs"
+#~ msgstr "Com fer servir els _diàlegs"
+
+#~ msgid "Drawing _Simple Objects"
+#~ msgstr "Dibuixa objectes _simples"
+
+#~ msgid "Create and Use _Selections"
+#~ msgstr "Crea i utilitza les _seleccions"
+
+#~ msgid "_Main Web Site"
+#~ msgstr "Web _principal"
+
+#~ msgid "Bookmark to the GIMP web site"
+#~ msgstr "Marcador per a la web del GIMP"
+
+#~ msgid "_Developer Web Site"
+#~ msgstr "Web dels _desenvolupadors"
+
+#~ msgid "_User Manual Web Site"
+#~ msgstr "Web del manual d'_usuari"
+
+#~ msgid "Plug-in _Registry"
+#~ msgstr "_Instal·la més connectors"
+
+#~ msgid "Custom _Gradient..."
+#~ msgstr "Degradat _personalitzat ..."
+
+#~ msgid "Create an image filled with an example of the current gradient"
+#~ msgstr "Crea una imatge plena d'una mostra del degradat actual"
+
+#~ msgid "Width"
+#~ msgstr "Amplada"
+
+#~ msgid "Height"
+#~ msgstr "Alçada"
+
+#~ msgid "Gradient reverse"
+#~ msgstr "Degradat invertit"
+
+#~ msgid "_Grid..."
+#~ msgstr "_Graella..."
+
+#~ msgid ""
+#~ "Draw a grid as specified by the lists of X and Y locations using the "
+#~ "current brush"
+#~ msgstr ""
+#~ "Dibuixeu una graella tal com s'especifica a les llistes de les posicions "
+#~ "X i Y utilitzant el pinzell actual"
+
+#~ msgid "X divisions"
+#~ msgstr "Divisions X"
+
+#~ msgid "Y divisions"
+#~ msgstr "Divisions Y"
+
+#~ msgid "New Guides from _Selection"
+#~ msgstr "Noves guies des de la _selecció"
+
+#, fuzzy
+#~ msgid "Create four guides around the bounding box of the current selection"
+#~ msgstr "Arrodoneix les vores de la selecció actual"
+
+#~ msgid "New Guide (by _Percent)..."
+#~ msgstr "Nova guia (per _percentatge)..."
+
+#~ msgid ""
+#~ "Add a guide at the position specified as a percentage of the image size"
+#~ msgstr ""
+#~ "Afegeix una guia a la posició especificada com a percentatge de la mida "
+#~ "de la imatge"
+
+#~ msgid "Direction"
+#~ msgstr "Direcció"
+
+#~ msgid "Vertical"
+#~ msgstr "Vertical"
+
+#~ msgid "Position (in %)"
+#~ msgstr "Posició (en %)"
+
+#~ msgid "New _Guide..."
+#~ msgstr "Crea una _guia..."
+
+#~ msgid "Add a guide at the orientation and position specified (in pixels)"
+#~ msgstr ""
+#~ "Afegeix una guia amb l'orientació i la posició especificades (en píxels)"
+
+#~ msgid "Position"
+#~ msgstr "Posició"
+
+#~ msgid "_Remove all Guides"
+#~ msgstr "_Suprimeix totes les guies"
+
+#~ msgid "Remove all horizontal and vertical guides"
+#~ msgstr "Suprimeix totes les guies horitzontals i verticals"
+
+#~ msgid "_Lava..."
+#~ msgstr "_Lava..."
+
+#~ msgid "Fill the current selection with lava"
+#~ msgstr "Omple la selecció actual amb lava"
+
+#~ msgid "Seed"
+#~ msgstr "Llavor"
+
+#~ msgid "Size"
+#~ msgstr "Mida"
+
+#~ msgid "Roughness"
+#~ msgstr "Rugositat "
+
+#~ msgid "Gradient"
+#~ msgstr "Degradat"
+
+#~ msgid "Use current gradient"
+#~ msgstr "Utilitza el degradat actual"
+
+#~ msgid "Line _Nova..."
+#~ msgstr "_Ratllat radial..."
+
+#~ msgid ""
+#~ "Fill a layer with rays emanating outward from its center using the "
+#~ "foreground color"
+#~ msgstr ""
+#~ "Omple la capa amb rajos que emanen del seu centre emprant el color del "
+#~ "primer pla"
+
+#~ msgid "Number of lines"
+#~ msgstr "Nombre de línies"
+
+#~ msgid "Sharpness (degrees)"
+#~ msgstr "Definició (graus)"
+
+#~ msgid "Offset radius"
+#~ msgstr "Radi del desplaçament"
+
+#~ msgid "Randomness"
+#~ msgstr "Aleatorietat"
+
+#~ msgid "_Rectangular..."
+#~ msgstr "_Rectangular..."
+
+#~ msgid "Create a rectangular brush"
+#~ msgstr "Crea un pinzell rectangular"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Spacing"
+#~ msgstr "Espaiat"
+
+#~ msgid "Re_ctangular, Feathered..."
+#~ msgstr "Re_ctangular, amb la vora difuminada..."
+
+#~ msgid "Create a rectangular brush with feathered edges"
+#~ msgstr "Crea un pinzell rectangular amb la vora difuminada"
+
+#~ msgid "Feathering"
+#~ msgstr "Difuminació"
+
+#~ msgid "_Elliptical..."
+#~ msgstr "_El·líptic..."
+
+#~ msgid "Create an elliptical brush"
+#~ msgstr "Crea un pinzell el·líptic"
+
+#~ msgid "Elli_ptical, Feathered..."
+#~ msgstr "El·lí_ptic, amb la vora difuminada..."
+
+#~ msgid "Create an elliptical brush with feathered edges"
+#~ msgstr "Crea un pinzell el·líptic amb la vora difuminada"
+
+#~ msgid "_Old Photo..."
+#~ msgstr "Fot_o antiga..."
+
+#~ msgid "Make an image look like an old photo"
+#~ msgstr "Fa que una imatge sembli una fotografia antiga"
+
+#~ msgid "Defocus"
+#~ msgstr "Desenfoca"
+
+#~ msgid "Sepia"
+#~ msgstr "Sèpia"
+
+#~ msgid "Mottle"
+#~ msgstr "Multicolor"
+
+#~ msgid "Folder for the output file"
+#~ msgstr "Carpeta per al fitxer de sortida"
+
+#~ msgid ""
+#~ "The name of the file to create (if a file with this name already exist, "
+#~ "it will be replaced)"
+#~ msgstr ""
+#~ "El nom del fitxer per crear (si és un fitxer amb un nom que ja existeix, "
+#~ "serà reemplaçat)"
+
+#~ msgid "The filename you entered is not a suitable name for a file."
+#~ msgstr "El nom del fitxer introduït no és un nom adequat per a un fitxer"
+
+#~ msgid ""
+#~ "All characters in the name are either white-spaces or characters which "
+#~ "can not appear in filenames."
+#~ msgstr ""
+#~ "Tots els caràcters en el nom són també espais blancs o caràcters que no "
+#~ "poden aparèixer en els noms dels fitxers"
+
+#~ msgid ""
+#~ "Export the active palette as a CSS stylesheet with the color entry name "
+#~ "as their class name, and the color itself as the color attribute"
+#~ msgstr ""
+#~ "Exporta la paleta activa com a full d'estils CSS amb el nom de l'entrada "
+#~ "del color com a nom de classe, i el mateix color com a atribut del color"
+
+#~ msgid "Export the active palette as a PHP dictionary (name => color)"
+#~ msgstr "Exporta la paleta activa com a diccionari PHP (nom=> color)"
+
+#~ msgid "Export the active palette as a Python dictionary (name: color)"
+#~ msgstr "Exporta la paleta activa com a diccionari Python (nom: color)"
+
+#~ msgid ""
+#~ "Write all the colors in a palette to a text file, one hexadecimal value "
+#~ "per line (no names)"
+#~ msgstr ""
+#~ "Escriu tots els colors en una paleta a un arxiu de text, un valor "
+#~ "hexadecimal per línia (sense nom)"
+
+#~ msgid "Export the active palette as a java.util.Hashtable<String, Color>"
+#~ msgstr ""
+#~ "Exporta la paleta activa com a diccionari java.util.Hashtable <Cadena, "
+#~ "Color>"
+
+#~ msgid "There is no image data in the clipboard to paste."
+#~ msgstr "No hi ha dades de cap imatge al porta-retalls per a enganxar."
+
+#~ msgid "New _Brush..."
+#~ msgstr "Nou pin_zell..."
+
+#~ msgid "Paste the clipboard contents into a new brush"
+#~ msgstr "Enganxa el contingut del porta-retalls en un pinzell nou"
+
+#~ msgid "Brush name"
+#~ msgstr "Nom del pinzell"
+
+#~ msgid "File name"
+#~ msgstr "Nom del fitxer"
+
+#~ msgid "New _Pattern..."
+#~ msgstr "Nou _patró..."
+
+#~ msgid "Paste the clipboard contents into a new pattern"
+#~ msgstr "Enganxa el contingut del porta-retalls en un patró nou"
+
+#~ msgid "Pattern name"
+#~ msgstr "Nom del patró"
+
+#~ msgid "_Perspective..."
+#~ msgstr "_Perspectiva..."
+
+#~ msgid "Add a perspective shadow to the selected region (or alpha)"
+#~ msgstr ""
+#~ "Afegeix una ombra en perspectiva a la regió seleccionada (o canal alfa)"
+
+#~ msgid "Angle"
+#~ msgstr "Angle"
+
+#~ msgid "Relative distance of horizon"
+#~ msgstr "Distància relativa de l'horitzó"
+
+#~ msgid "Relative length of shadow"
+#~ msgstr "Longitud relativa de l'ombra"
+
+#~ msgid "Interpolation"
+#~ msgstr "Interpolació"
+
+#~ msgid "_Predator..."
+#~ msgstr "Estil «Àlien _Predator»..."
+
+#~ msgid "Add a 'Predator' effect to the selected region (or alpha)"
+#~ msgstr ""
+#~ "Afegeix un efecte «Àlien Predator» a la regió seleccionada (o canal alfa)"
+
+#~ msgid "Edge amount"
+#~ msgstr "Quantitat de vores"
+
+#~ msgid "Pixelize"
+#~ msgstr "Pixelitza"
+
+#~ msgid "Pixel amount"
+#~ msgstr "Quantitat de píxels"
+
+#~ msgid "Reverse Layer Order"
+#~ msgstr "Inverteix l'ordre de les capes"
+
+#~ msgid "Reverse the order of layers in the image"
+#~ msgstr "Inverteix l'ordre de les capes de la imatge"
+
+#~ msgid "_Rippling..."
+#~ msgstr "A_rruga..."
+
+#~ msgid ""
+#~ "Create a multi-layer image by adding a ripple effect to the current image"
+#~ msgstr ""
+#~ "Crear una imatge multicapa afegint un efecte onada a la imatge actual"
+
+#~ msgid "Rippling strength"
+#~ msgstr "Intensitat de l'arruga"
+
+#~ msgid "Number of frames"
+#~ msgstr "Nombre de fotogrames"
+
+#~ msgid "Edge behavior"
+#~ msgstr "Comportament de les vores"
+
+#~ msgid "Smear"
+#~ msgstr "Escampa"
+
+#~ msgid "Black"
+#~ msgstr "Negre"
+
+#~ msgid "_Round Corners..."
+#~ msgstr "A_rrodoneix les vores..."
+
+#~ msgid ""
+#~ "Round the corners of an image and optionally add a drop-shadow and "
+#~ "background"
+#~ msgstr ""
+#~ "Arrodoneix les vores de la imatge i opcionalment afegeix una ombra "
+#~ "caiguda i un fons"
+
+#~ msgid "Edge radius"
+#~ msgstr "Radi de la vora"
+
+#~ msgid "Add drop-shadow"
+#~ msgstr "Afegeix una ombra caiguda"
+
+#~ msgid "Shadow X offset"
+#~ msgstr "Desplaçament X de l'ombra"
+
+#~ msgid "Shadow Y offset"
+#~ msgstr "Desplaçament Y de l'ombra"
+
+#~ msgid "Add background"
+#~ msgstr "Afegeix un fons"
+
+#~ msgid "Se_t Colormap..."
+#~ msgstr "_Defineix el mapa de colors..."
+
+#~ msgid ""
+#~ "Change the colormap of an image to the colors in a specified palette."
+#~ msgstr ""
+#~ "Canvia el mapa de colors d'una imatge amb els colors de la paleta "
+#~ "especificada."
+
+#~ msgid "Palette"
+#~ msgstr "Paleta"
+
+#~ msgid "Rounded R_ectangle..."
+#~ msgstr "R_ectangle arrodonit..."
+
+#~ msgid "Round the corners of the current selection"
+#~ msgstr "Arrodoneix les vores de la selecció actual"
+
+#~ msgid "Radius (%)"
+#~ msgstr "Radi (%)"
+
+#~ msgid "Concave"
+#~ msgstr "Còncau"
+
+#~ msgid "To _Brush..."
+#~ msgstr "Fes-ne _un pinzell..."
+
+#~ msgid "Convert a selection to a brush"
+#~ msgstr "Converteix la selecció en un pinzell"
+
+#~ msgid "To _Image"
+#~ msgstr "Fes-ne _una imatge"
+
+#~ msgid "Convert a selection to an image"
+#~ msgstr "Converteix la selecció en una imatge"
+
+#~ msgid "To _Pattern..."
+#~ msgstr "Fes-ne un _patró..."
+
+#~ msgid "Convert a selection to a pattern"
+#~ msgstr "Converteix la selecció en un patró"
+
+#~ msgid "_Slide..."
+#~ msgstr "Emmarca com un _fotograma..."
+
+#~ msgid "Add a slide-film like frame, sprocket holes, and labels to an image"
+#~ msgstr ""
+#~ "Afegeix un marc de pel·lícula de cinema, perforada i amb les marques a la "
+#~ "imatge"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Number"
+#~ msgstr "Número"
+
+#~ msgid "Font"
+#~ msgstr "Tipus de lletra"
+
+#~ msgid "Font color"
+#~ msgstr "Color del tipus de lletra"
+
+#~ msgid "_Spinning Globe..."
+#~ msgstr "_Món que gira..."
+
+#~ msgid ""
+#~ "Create an animation by mapping the current image onto a spinning sphere"
+#~ msgstr "Crea una animació posant la imatge actual en una esfera giratòria"
+
+#~ msgid "Frames"
+#~ msgstr "Fotogrames"
+
+#~ msgid "Turn from left to right"
+#~ msgstr "Gira d'esquerra a dreta"
+
+#~ msgid "Transparent background"
+#~ msgstr "Fons transparent"
+
+#~ msgid "Index to n colors (0 = remain RGB)"
+#~ msgstr "Indexa en n colors (0 = manté en RGB)"
+
+#~ msgid "Rendering Spyro"
+#~ msgstr "S'està dibuixant l'espiroide"
+
+#~ msgid "_Spyrogimp..."
+#~ msgstr "_Espirògraf..."
+
+#~ msgid ""
+#~ "Add Spirographs, Epitrochoids, and Lissajous Curves to the current layer"
+#~ msgstr ""
+#~ "Dibuixa espirògrafs, epitrocoides i corbes de Lissajous a la capa actual"
+
+#~ msgid "Type"
+#~ msgstr "Tipus"
+
+# era: msgstr "Dibuixa espirògrafs, epitrocòides i curves de Lissajous. Podeu obtenir més informació a http://netword.com/*spyrogimp"
+#~ msgid "Epitrochoid"
+#~ msgstr "Epitrocoide"
+
+#~ msgid "Lissajous"
+#~ msgstr "Lissajous"
+
+#~ msgid "Shape"
+#~ msgstr "Forma"
+
+#~ msgid "Triangle"
+#~ msgstr "Triangle"
+
+#~ msgid "Square"
+#~ msgstr "Quadrat"
+
+#~ msgid "Pentagon"
+#~ msgstr "Pentàgon"
+
+#~ msgid "Hexagon"
+#~ msgstr "Hexàgon"
+
+#~ msgid "Polygon: 7 sides"
+#~ msgstr "Polígon: 7 cares"
+
+#~ msgid "Polygon: 8 sides"
+#~ msgstr "Polígon: 8 cares"
+
+#~ msgid "Polygon: 9 sides"
+#~ msgstr "Polígon: 9 cares"
+
+#~ msgid "Polygon: 10 sides"
+#~ msgstr "Polígon: 10 cares"
+
+#~ msgid "Outer teeth"
+#~ msgstr "Dents exteriors"
+
+#~ msgid "Inner teeth"
+#~ msgstr "Dents interiors"
+
+#~ msgid "Margin (pixels)"
+#~ msgstr "Marge (píxels)"
+
+#~ msgid "Hole ratio"
+#~ msgstr "Relació del forat"
+
+#~ msgid "Start angle"
+#~ msgstr "Angle inicial"
+
+#~ msgid "Tool"
+#~ msgstr "Eina"
+
+#~ msgid "Brush"
+#~ msgstr "Pinzell"
+
+#~ msgid "Airbrush"
+#~ msgstr "Esprai"
+
+#~ msgid "Color method"
+#~ msgstr "Mètode de color"
+
+#~ msgid "Gradient: Loop Sawtooth"
+#~ msgstr "Degradat: serralada"
+
+#~ msgid "Gradient: Loop Triangle"
+#~ msgstr "Degradat: rampes"
+
+#, fuzzy
+#~ msgid "_Sphere..."
+#~ msgstr "Cr_om..."
+
+#~ msgid "_Tileable Blur..."
+#~ msgstr "Di_fumina per a mosaics..."
+
+#~ msgid "Blur the edges of an image so the result tiles seamlessly"
+#~ msgstr ""
+#~ "Difumina les vores de la imatge de manera que no es notin les juntes de "
+#~ "les tessel·les del mosaic"
+
+#~ msgid "Radius"
+#~ msgstr "Radi"
+
+#~ msgid "Blur vertically"
+#~ msgstr "Difumina verticalment"

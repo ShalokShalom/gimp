@@ -1,0 +1,8 @@
+/Makefile
+/Makefile.in
+/.deps
+/.libs
+/libappoperations.a
+/libappoperations-generic.a
+/libappoperations-sse2.a
+/libappoperations-sse4.a
